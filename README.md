@@ -119,12 +119,3 @@ Incremental learning from basic → advanced
 Modular and easy-to-understand implementations
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-📈 Future Improvements :
-
-Add comments and documentation to all programs
-Group scripts into well-defined modules
-Add test cases and expected outputs
-Convert utilities into reusable tools
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
